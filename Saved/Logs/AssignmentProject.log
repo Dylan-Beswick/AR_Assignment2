@@ -1394,3 +1394,17 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.14-20.13.14:807][759]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 450 ms)
 [2023.08.14-20.13.14:812][759]AssetCheck: New page: Asset Save: AssignmentLevel
 [2023.08.14-20.13.14:812][759]LogContentValidation: Display: Validating /Script/Engine.World /Game/Assignment2/AssignmentLevel.AssignmentLevel
+[2023.08.14-20.31.37:831][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.08.14-20.31.37:832][656]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Assignment2/AssignmentLevel' took 0.022
+[2023.08.14-20.31.37:833][656]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assignment2/AssignmentCamera] ([2] browsable assets)...
+[2023.08.14-20.31.37:833][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assignment2/AssignmentCamera]
+[2023.08.14-20.31.37:854][656]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assignment2/AssignmentCamera_Auto3
+[2023.08.14-20.31.37:854][656]LogSavePackage: Moving '../../../../../../Users/boobe/OneDrive/Desktop/School/Augmented Reality/AR_Assignment/Saved/AssignmentCamera_Auto34D683DEB4B102D53175B7289E7D6482C.tmp' to '../../../../../../Users/boobe/OneDrive/Desktop/School/Augmented Reality/AR_Assignment/Saved/Autosaves/Game/Assignment2/AssignmentCamera_Auto3.uasset'
+[2023.08.14-20.31.37:855][656]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.08.14-20.35.40:702][205]LogDerivedDataCache: C:/Users/boobe/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.163 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5685 files in 7358 folders with total size 180 MiB.
+[2023.08.14-20.45.17:590][483]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.14-20.45.17:712][483]LogSavePackage: Moving output files for package: /Game/Assignment2/AssignmentCamera
+[2023.08.14-20.45.17:713][483]LogSavePackage: Moving '../../../../../../Users/boobe/OneDrive/Desktop/School/Augmented Reality/AR_Assignment/Saved/AssignmentCamera679373B54FB851B21160C083E05C584C.tmp' to '../../../../../../Users/boobe/OneDrive/Desktop/School/Augmented Reality/AR_Assignment/Content/Assignment2/AssignmentCamera.uasset'
+[2023.08.14-20.45.17:721][483]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 582 ms)
+[2023.08.14-20.45.17:731][483]AssetCheck: New page: Asset Save: AssignmentCamera
+[2023.08.14-20.45.17:731][483]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Assignment2/AssignmentCamera.AssignmentCamera
